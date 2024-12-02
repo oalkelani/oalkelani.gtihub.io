@@ -2,7 +2,7 @@
 permalink: /
 ---
 # **Documentation**
-> How this project works and how to maintain your own
+> How this project works and how to maintain your own YAZEED
 
 <div align="center">
     <a href="https://github.com/MichaelCurrin/gh-pages-no-jekyll/generate">
